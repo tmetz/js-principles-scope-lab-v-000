@@ -1,6 +1,6 @@
 // Write your solution in this file!
 
-var customerName; // global scope
+var customerName = "bob"; // global scope
 
 function upperCaseCustomerName() {
   customerName = customerName.toUpperCase();
